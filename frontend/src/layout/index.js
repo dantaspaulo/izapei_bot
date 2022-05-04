@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            OwenZap
+           iZapei - Automação para Whatsapp
           </Typography>
           {user.id && <NotificationsPopOver />}
 
